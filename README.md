@@ -17,7 +17,7 @@
 ### About Me
 
 - 🏅 **UK Global Talent** — awarded by Tech Nation for exceptional expertise in technology
-- 🚀 6+ years shipping products used by **150K+ SMEs**, processing **~$100M GMV/month**
+- 🚀 8+ years shipping products used by **150K+ SMEs**, processing **~$100M GMV/month**
 - 🤖 Passionate about practical **AI/LLM** integrations — from natural language query systems to AI-powered summarisation tools
 - 📍 Based in **United Kingdom**
 - 💼 Most recently at **Taktile** (Series B) — building AI-driven data exploration tools
