@@ -61,7 +61,7 @@
 
 | Company | Role | Impact |
 |---|---|---|
-| **NCS** | Senior AI Engineer | Multiagent Orchestration | Harness Engineering | Multi-agent systems | Eval harnesses |
+| **NCS** | Senior AI Engineer | Multiagent Orchestration → Harness Engineering → Multi-agent systems → Eval harnesses |
 | **Taktile** *(Series B)* | Software Engineer | AI-powered query system — natural language → Amazon Athena/Iceberg |
 | **Sabi** *(Series B · $300M)* | Senior / Lead Engineer | 0→1 across Fintech, E-commerce & Agri-Tech · 150K+ SMEs · $100M GMV/month |
 | **Africa Prudential** | Software Engineer | KPI platform for 20K employees · $4M in SME transactions on TEFConnect |
